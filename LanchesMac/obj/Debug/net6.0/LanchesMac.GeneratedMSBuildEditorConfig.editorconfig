@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\israe\Documents\@GitHub Projetos\Asp.Net MVC\LanchesMac
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/israe/Documents/@GitHub Projetos/Asp.Net MVC/LanchesMac/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/israe/Documents/@GitHub Projetos/Asp.Net MVC/LanchesMac/Views/CarrinhoCompra/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9Db21wcmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
