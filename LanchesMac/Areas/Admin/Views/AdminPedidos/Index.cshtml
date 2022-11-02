@@ -23,7 +23,6 @@
 
     </div>
 
-
 </form>
 
 <br />
@@ -31,9 +30,8 @@
 
 Total de Pedidos : @Model.TotalRecordCount
 
-
+<br />
 <p>
-    <br />
     <a asp-action="Create">Criar novo pedido</a>
 </p>
 
@@ -76,6 +74,7 @@ Total de Pedidos : @Model.TotalRecordCount
             <th></th>
         </tr>
     </thead>
+
     <tbody>
         @foreach (var item in Model)
         {
@@ -116,7 +115,8 @@ Total de Pedidos : @Model.TotalRecordCount
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.PedidoId">Editar</a> |
                     <a asp-action="Details" asp-route-id="@item.PedidoId">Detalhes</a> |
-                    <a asp-action="Delete" asp-route-id="@item.PedidoId">Deletar</a>
+                    <a asp-action="Delete" asp-route-id="@item.PedidoId">Deletar</a> |
+                    <a asp-action="PedidoLanches" asp-route-id="@item.PedidoId">Ver Itens</a>
                 </td>
             </tr>
         }
