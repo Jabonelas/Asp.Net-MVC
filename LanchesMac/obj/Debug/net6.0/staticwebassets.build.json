@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uaP/mqwTppz7z0MpyVfLB8MvtML5//hHd0JLlSfUjYY=",
+  "Hash": "AFyZ/WTUnjSibaeTT7595fOrtoykc5aWFUf10AP5Twk=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -1613,6 +1613,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\israe\\Documents\\@GitHub Projetos\\Asp.Net MVC\\LanchesMac\\wwwroot\\reports\\LanchesCategoria.frx",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\israe\\Documents\\@GitHub Projetos\\Asp.Net MVC\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "reports/LanchesCategoria.frx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\reports\\LanchesCategoria.frx"
     }
   ]
 }
